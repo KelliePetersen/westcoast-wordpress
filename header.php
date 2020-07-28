@@ -51,6 +51,11 @@ $container = get_theme_mod( 'understrap_container_type' );
 
 			<div class="container">
 
+        <div class="search-input-holder">
+          <div class="title">Quote:</div>
+          <input type="text" placeholder="Type your suburb here" />
+        </div>
+
 				<!-- <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="<?php esc_attr_e( 'Toggle navigation', 'understrap' ); ?>">
 					<span class="navbar-toggler-icon"></span>
 				</button> -->

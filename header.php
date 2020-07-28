@@ -47,7 +47,7 @@ $container = get_theme_mod( 'understrap_container_type' );
       </div>
     </div>
 
-		<nav id="main-nav" class="navbar navbar-expand-lg navbar-dark bg-primary" aria-labelledby="main-nav-label">
+		<nav id="main-nav" class="navbar navbar-expand-lg navbar-dark" aria-labelledby="main-nav-label">
 
 			<div class="container">
 
